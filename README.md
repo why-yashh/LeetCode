@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/why-yashh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/why-yashh/LeetCode/tree/master/0037-sudoku-solver) |
+| [0088-merge-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/why-yashh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/why-yashh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/why-yashh/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/why-yashh/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/why-yashh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
