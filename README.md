@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/why-yashh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/why-yashh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/why-yashh/LeetCode/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/why-yashh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/why-yashh/LeetCode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
