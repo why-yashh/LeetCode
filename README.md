@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/why-yashh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/why-yashh/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/why-yashh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/why-yashh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1975-maximum-matrix-sum](https://github.com/why-yashh/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/why-yashh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/why-yashh/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/why-yashh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/why-yashh/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
