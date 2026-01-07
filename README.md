@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/why-yashh/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/why-yashh/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/why-yashh/LeetCode/tree/master/0335-self-crossing) |
 | [0407-trapping-rain-water-ii](https://github.com/why-yashh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/why-yashh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/why-yashh/LeetCode/tree/master/0066-plus-one) |
+| [0335-self-crossing](https://github.com/why-yashh/LeetCode/tree/master/0335-self-crossing) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/why-yashh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/why-yashh/LeetCode/tree/master/1642-water-bottles) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/why-yashh/LeetCode/tree/master/0335-self-crossing) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/why-yashh/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/why-yashh/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
