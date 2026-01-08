@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/why-yashh/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/why-yashh/LeetCode/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0407-trapping-rain-water-ii](https://github.com/why-yashh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/why-yashh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/why-yashh/LeetCode/tree/master/0037-sudoku-solver) |
+| [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/why-yashh/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/why-yashh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/why-yashh/LeetCode/tree/master/3863-power-grid-maintenance) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
