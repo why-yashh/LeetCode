@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/why-yashh/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/why-yashh/LeetCode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/why-yashh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/why-yashh/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/why-yashh/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/why-yashh/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/why-yashh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/why-yashh/LeetCode/tree/master/0037-sudoku-solver) |
 | [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/why-yashh/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Geometry
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Prefix Sum
 |  |
