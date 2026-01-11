@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/why-yashh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/why-yashh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/why-yashh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/why-yashh/LeetCode/tree/master/0037-sudoku-solver) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/why-yashh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1975-maximum-matrix-sum](https://github.com/why-yashh/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3863-power-grid-maintenance](https://github.com/why-yashh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
@@ -212,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/why-yashh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/why-yashh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
