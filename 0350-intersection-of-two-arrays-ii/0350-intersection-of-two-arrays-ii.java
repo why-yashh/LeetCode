@@ -1,18 +1,27 @@
 class Solution {
-    public int[] intersect(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> count1 = new HashMap<>();
-        for(int num:nums1){
-            count1.put(num,count1.getOrDefault(num, 0) + 1);
-        }
-
-        List<Integer> result = new ArrayList<>();
-        for(int num : nums2){
-            int c1 = count1.getOrDefault(num, 0);
-            if(c1>0){
-                result.add(num);
-                count1.put(num, c1 -1);
+    public int maxSumSubmatrix(int[][] matrix, int k) {
+        int m = matrix.length, n = matrix[0].length;
+        int ans = Integer.MIN_VALUE;
+        
+        for (int top = 0; top < m; ++top) {
+            int[] colSum = new int[n];
+            for (int bot = top; bot < m; ++bot) {
+                for (int c = 0; c < n; ++c) {
+                    colSum[c] += matrix[bot][c];
+                }
+                TreeSet<Integer> prefix = new TreeSet<>();
+                prefix.add(0);
+                int prefixSum = 0;
+                for (int sum : colSum) {
+                    prefixSum += sum;
+                    Integer ceil = prefix.ceiling(prefixSum - k);
+                    if (ceil != null) {
+                        ans = Math.max(ans, prefixSum - ceil);
+                    }
+                    prefix.add(prefixSum);
+                }
             }
         }
-        return result.stream().mapToInt(Integer::intValue).toArray();
+        return ans;
     }
 }
