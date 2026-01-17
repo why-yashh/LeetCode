@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/why-yashh/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/why-yashh/LeetCode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/why-yashh/LeetCode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3863-power-grid-maintenance](https://github.com/why-yashh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/why-yashh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Prefix Sum
 |  |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
