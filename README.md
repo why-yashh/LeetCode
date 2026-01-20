@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/why-yashh/LeetCode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/why-yashh/LeetCode/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/why-yashh/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/why-yashh/LeetCode/tree/master/0066-plus-one) |
 | [0335-self-crossing](https://github.com/why-yashh/LeetCode/tree/master/0335-self-crossing) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/why-yashh/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0477-total-hamming-distance](https://github.com/why-yashh/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/why-yashh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/why-yashh/LeetCode/tree/master/1642-water-bottles) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/why-yashh/LeetCode/tree/master/0477-total-hamming-distance) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/why-yashh/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/why-yashh/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
