@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/why-yashh/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
