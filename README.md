@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/why-yashh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/why-yashh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0374-guess-number-higher-or-lower](https://github.com/why-yashh/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/why-yashh/LeetCode/tree/master/0475-heaters) |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/why-yashh/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/why-yashh/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/why-yashh/LeetCode/tree/master/0607-sales-person) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/why-yashh/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
