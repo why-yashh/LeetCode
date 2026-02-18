@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/why-yashh/LeetCode/tree/master/0190-reverse-bits) |
 | [0477-total-hamming-distance](https://github.com/why-yashh/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/why-yashh/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/why-yashh/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/why-yashh/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
