@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/why-yashh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/why-yashh/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/why-yashh/LeetCode/tree/master/0475-heaters) |
+| [0696-count-binary-substrings](https://github.com/why-yashh/LeetCode/tree/master/0696-count-binary-substrings) |
 ## Geometry
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/why-yashh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0696-count-binary-substrings](https://github.com/why-yashh/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/why-yashh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
