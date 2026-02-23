@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/why-yashh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/why-yashh/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3462-vowels-game-in-a-string](https://github.com/why-yashh/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/why-yashh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Game Theory
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/why-yashh/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/why-yashh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/why-yashh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
