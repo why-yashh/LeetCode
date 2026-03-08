@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/why-yashh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/why-yashh/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/why-yashh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/why-yashh/LeetCode/tree/master/1642-water-bottles) |
 | [1998-gcd-sort-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/why-yashh/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-count-special-quadruplets](https://github.com/why-yashh/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2402-meeting-rooms-iii](https://github.com/why-yashh/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3713-longest-balanced-substring-i](https://github.com/why-yashh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3713-longest-balanced-substring-i](https://github.com/why-yashh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Union-Find
 |  |
