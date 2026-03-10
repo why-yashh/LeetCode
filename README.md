@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2007-find-original-array-from-doubled-array](https://github.com/why-yashh/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/why-yashh/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/why-yashh/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2402-meeting-rooms-iii](https://github.com/why-yashh/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/why-yashh/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/why-yashh/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-count-special-quadruplets](https://github.com/why-yashh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2007-find-original-array-from-doubled-array](https://github.com/why-yashh/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2402-meeting-rooms-iii](https://github.com/why-yashh/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3713-longest-balanced-substring-i](https://github.com/why-yashh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/why-yashh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/why-yashh/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2007-find-original-array-from-doubled-array](https://github.com/why-yashh/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/why-yashh/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/why-yashh/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
