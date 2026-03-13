@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/why-yashh/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/why-yashh/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/why-yashh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/why-yashh/LeetCode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/why-yashh/LeetCode/tree/master/2402-meeting-rooms-iii) |
