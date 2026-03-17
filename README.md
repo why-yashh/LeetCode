@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/why-yashh/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1002-find-common-characters](https://github.com/why-yashh/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/why-yashh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/why-yashh/LeetCode/tree/master/0454-4sum-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/why-yashh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/why-yashh/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/why-yashh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0336-palindrome-pairs](https://github.com/why-yashh/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0696-count-binary-substrings](https://github.com/why-yashh/LeetCode/tree/master/0696-count-binary-substrings) |
+| [1002-find-common-characters](https://github.com/why-yashh/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/why-yashh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/why-yashh/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
