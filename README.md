@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/why-yashh/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/why-yashh/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/why-yashh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/why-yashh/LeetCode/tree/master/0190-reverse-bits) |
 | [0477-total-hamming-distance](https://github.com/why-yashh/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/why-yashh/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/why-yashh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/why-yashh/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/why-yashh/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
