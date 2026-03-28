@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/why-yashh/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/why-yashh/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/why-yashh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/why-yashh/LeetCode/tree/master/0002-add-two-numbers) |
+| [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Database
 |  |
