@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/why-yashh/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/why-yashh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/why-yashh/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/why-yashh/LeetCode/tree/master/0475-heaters) |
 | [0977-squares-of-a-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/why-yashh/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/why-yashh/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/why-yashh/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
