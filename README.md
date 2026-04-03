@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/why-yashh/LeetCode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/why-yashh/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1053-previous-permutation-with-one-swap](https://github.com/why-yashh/LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1089-duplicate-zeros](https://github.com/why-yashh/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/why-yashh/LeetCode/tree/master/0475-heaters) |
 | [0696-count-binary-substrings](https://github.com/why-yashh/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/why-yashh/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Geometry
 |  |
 | ------- |
