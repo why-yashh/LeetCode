@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/why-yashh/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1053-previous-permutation-with-one-swap](https://github.com/why-yashh/LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1089-duplicate-zeros](https://github.com/why-yashh/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/why-yashh/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/why-yashh/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/why-yashh/LeetCode/tree/master/1051-height-checker) |
+| [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/why-yashh/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/why-yashh/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/why-yashh/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-count-special-quadruplets](https://github.com/why-yashh/LeetCode/tree/master/1995-count-special-quadruplets) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/why-yashh/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/why-yashh/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/why-yashh/LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/why-yashh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/why-yashh/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3713-longest-balanced-substring-i](https://github.com/why-yashh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Union-Find
