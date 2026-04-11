@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1093-statistics-from-a-large-sample](https://github.com/why-yashh/LeetCode/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/why-yashh/LeetCode/tree/master/1094-car-pooling) |
+| [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/why-yashh/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/why-yashh/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
+| [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-count-special-quadruplets](https://github.com/why-yashh/LeetCode/tree/master/1995-count-special-quadruplets) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/why-yashh/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/why-yashh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/why-yashh/LeetCode/tree/master/1094-car-pooling) |
+| [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1991-find-the-middle-index-in-array](https://github.com/why-yashh/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/why-yashh/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/why-yashh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Database
 |  |
