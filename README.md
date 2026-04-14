@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/why-yashh/LeetCode/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/why-yashh/LeetCode/tree/master/1094-car-pooling) |
 | [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/why-yashh/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/why-yashh/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/why-yashh/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-count-special-quadruplets](https://github.com/why-yashh/LeetCode/tree/master/1995-count-special-quadruplets) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/why-yashh/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/why-yashh/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/why-yashh/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3713-longest-balanced-substring-i](https://github.com/why-yashh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Union-Find
