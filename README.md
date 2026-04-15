@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/why-yashh/LeetCode/tree/master/1094-car-pooling) |
 | [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/why-yashh/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/why-yashh/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/why-yashh/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/why-yashh/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2008-maximum-earnings-from-taxi](https://github.com/why-yashh/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/why-yashh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/why-yashh/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/why-yashh/LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/why-yashh/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/why-yashh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/why-yashh/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/why-yashh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/why-yashh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/why-yashh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/why-yashh/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/why-yashh/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Database
 |  |
