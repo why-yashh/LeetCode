@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/why-yashh/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/why-yashh/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/why-yashh/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1146-snapshot-array](https://github.com/why-yashh/LeetCode/tree/master/1146-snapshot-array) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/why-yashh/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1124-longest-well-performing-interval](https://github.com/why-yashh/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/why-yashh/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1146-snapshot-array](https://github.com/why-yashh/LeetCode/tree/master/1146-snapshot-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/why-yashh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-count-special-quadruplets](https://github.com/why-yashh/LeetCode/tree/master/1995-count-special-quadruplets) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1146-snapshot-array](https://github.com/why-yashh/LeetCode/tree/master/1146-snapshot-array) |
 | [2429-design-a-food-rating-system](https://github.com/why-yashh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/why-yashh/LeetCode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/why-yashh/LeetCode/tree/master/0475-heaters) |
 | [1004-max-consecutive-ones-iii](https://github.com/why-yashh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1146-snapshot-array](https://github.com/why-yashh/LeetCode/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/why-yashh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2008-maximum-earnings-from-taxi](https://github.com/why-yashh/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
