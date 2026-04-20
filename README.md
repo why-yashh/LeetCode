@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/why-yashh/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1146-snapshot-array](https://github.com/why-yashh/LeetCode/tree/master/1146-snapshot-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/why-yashh/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1162-as-far-from-land-as-possible](https://github.com/why-yashh/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/why-yashh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/why-yashh/LeetCode/tree/master/1390-four-divisors) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/why-yashh/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1162-as-far-from-land-as-possible](https://github.com/why-yashh/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/why-yashh/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2008-maximum-earnings-from-taxi](https://github.com/why-yashh/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/why-yashh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/why-yashh/LeetCode/tree/master/0463-island-perimeter) |
 | [0999-available-captures-for-rook](https://github.com/why-yashh/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1162-as-far-from-land-as-possible](https://github.com/why-yashh/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/why-yashh/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/why-yashh/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/why-yashh/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/why-yashh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/why-yashh/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/why-yashh/LeetCode/tree/master/0463-island-perimeter) |
+| [1162-as-far-from-land-as-possible](https://github.com/why-yashh/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/why-yashh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1992-find-all-groups-of-farmland](https://github.com/why-yashh/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3863-power-grid-maintenance](https://github.com/why-yashh/LeetCode/tree/master/3863-power-grid-maintenance) |
